@@ -11,7 +11,7 @@ section {
     display: grid;
     place-items: center;
 }
-.container {
+.container img {
     width: 100%;
 }
 hr {width: 300px;
@@ -19,7 +19,7 @@ hr {width: 300px;
 	margin-right: auto;
 	height: 1px;
 	background-color:black;
-	opcaity: 0.5;
+	opacity: 0.5;
 }
 .blog-heading {
     font-style: normal;
