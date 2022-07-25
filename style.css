@@ -11,6 +11,9 @@ section {
     display: grid;
     place-items: center;
 }
+.container {
+    width: 100%;
+}
 hr {width: 300px;
 	margin-left: auto;
 	margin-right: auto;
