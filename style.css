@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin: 0;
-	 font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 section {
     width: 75%;
@@ -22,7 +22,7 @@ hr {width: 300px;
 }
 .blog-heading {
     font-style: normal;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 1.3rem;
     line-height: 100%;
     text-align: center;
@@ -30,11 +30,12 @@ hr {width: 300px;
 }
 .sub-blog-heading {
 	 text-align: center;
-	 font-size: 0.5rem;
+	 font-size: 0.6rem;
 }
 h1 {
 	 text-align: center;
 	 margin-top: 20px;
+         font-weight: 400;
 	 font-size: 1.5rem;
 }
 .blog-grid-container {
