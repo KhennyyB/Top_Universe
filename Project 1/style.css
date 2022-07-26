@@ -14,7 +14,7 @@ section {
  	width: 100%;
 }
 hr {
-	 width: 300px;
+	 width: 280px;
   	 margin-left: auto;
 	 margin-right: auto;
 	 height: 1px;
@@ -55,13 +55,19 @@ h1 {
 	 font-size: 0.75rem;
 }
 .blog-grid-container-children-3 {
-	 margin-top: 3px;
+	 margin-top: 18px;
 }
 .blog-grid-container-children-3 img{
 	 width: 100%;
 }
 .sub-blog-container-3 {
 	 font-size: 0.8rem;
+}
+.blog-grid-container-children-4 {
+	 margin-top: 15px;
+}
+.blog-grid-container-children-4 img{
+	 width: 100%;
 }
 
 
